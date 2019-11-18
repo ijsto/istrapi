@@ -117,4 +117,5 @@ build
 
 package-lock.json
 variables.env
-premium-*
+z-prm-*
+yarn.lock
