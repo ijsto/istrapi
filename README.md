@@ -1,4 +1,4 @@
-<h1 align="center">iStrapi - iJS Strapi-GraphQL boilerplate</h1>
+<h1 align="center">iJS - Strapi+GraphQL boilerplate</h1>
 <h3 align="center">Tested for and Deployed to Heroku</h3>
 
 [![github follow](https://img.shields.io/github/followers/ijsto?color=%23ff665a&label=Follow%20iJS.to&logo=github&style=for-the-badge)](https://github.com/ijsto)
